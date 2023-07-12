@@ -1,0 +1,18 @@
+.register-image{
+   float: left;
+   width: 75%;
+    
+}
+.register-container{
+    display: flex;
+    height: 100vh;
+}
+.register-page{
+    width: 50%;
+}
+.register-image-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 50%;
+}

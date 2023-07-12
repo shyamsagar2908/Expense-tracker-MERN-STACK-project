@@ -1,0 +1,19 @@
+.register-page{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   width: 50%;
+    height: 100vh;
+  }
+  .login-image{
+    float: left;
+    width: 75%;
+     
+ }
+ 
+ .login-image-container{
+     display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+     width: 50%;
+ }
